@@ -9,11 +9,11 @@ public class Test {
         boolean bb = false;  //true or false
         byte by = 12; // -128 to 127
         short sh = 15; // 16 bit singed
-        int a=56; //32 bit signed
-        long l = 1234566; //64 bit signed
-        float b = 12.36f;  //32 bit IEEE754 ,upto 7 decimal digits
-        double d = 12.34;  //upto 64 bit IEEE754, upto 16 decimal digits
-        char ch = 'A';   // unicode and 16 bit, ASCII value 0 to 255
+        int a=56; //32-bit signed
+        long l = 1234566; //64-bit signed
+        float b = 12.36f;  //32-bit IEEE754 ,Up-to 7 decimal digits
+        double d = 12.34;  //Up-to 64 bit IEEE754, Up-to 16 decimal digits
+        char ch = 'A';   // Unicode and 16 bit, ASCII value 0 to 255
 
         String s = "Demo string";
 
@@ -172,9 +172,11 @@ public class Test {
 
     public static void breakContinue()
     {
-        //break statements
+        /*
+        break statements
+        continue statements
+        */
 
-        //continue statements
     }
 
 
