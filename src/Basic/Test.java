@@ -111,6 +111,7 @@ public class Test {
 
         else if(12<13 && 13 > 14)
         {
+
             System.out.println("hello 13");
         }
         else
@@ -186,4 +187,6 @@ public class Test {
         System.out.print("Next line print u the cursor doesn't move to next line");
         operatorsDemo();
     }
+
+
 }
